@@ -1,0 +1,6 @@
+llama-index
+langchain
+sentence-transformers
+sentencepiece
+trafilatura
+gradio
